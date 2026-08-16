@@ -1,17 +1,272 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Basha</h1>
-<h3 align="center">A Software Engineer developer from Yemen</h3>
+<h1 align="center">Hi, I'm Ibrahim Basha</h1>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"></pre>
+<h3 align="center">
+Software Engineer | Backend-Focused Full-Stack Developer | Database & DevOps
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ابراهيم باشا" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ابراهيم باشا" height="30" width="40" /></a>
-<a href="https://instagram.com/e_basha_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_basha_1" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/brb11">
+    <img src="https://komarev.com/ghpvc/?username=brb11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/1f183f61fae69aa7c959f9442f420320693abbfe563286b0717a86cce062fca8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d2532334646324432302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Nuxt%20JS-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="[https://cdn.worldvectorlogo.com/logos/adobe-xd.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png)" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brb11&show_icons=true&locale=en&layout=compact" alt="brb11" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brb11&" alt="brb11" /></p>
+I'm a Software Engineer focused on building reliable, scalable, and maintainable software systems.
+
+My main areas of interest and experience include:
+
+* Backend development and REST API design
+* Full-stack web application development
+* Database design, development, and administration
+* Business automation systems
+* SaaS and multi-tenant architectures
+* Cloud computing and server deployment
+* DevOps and application infrastructure
+* AI and Computer Vision
+* System architecture and software engineering
+
+I enjoy working across the stack, but my strongest focus is on **backend engineering, databases, APIs, and infrastructure**.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+</p>
+
+**Python · JavaScript · TypeScript · PHP · C# · SQL**
+
+---
+
+### Backend Development
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
+</p>
+
+**FastAPI · Node.js · Express.js · Laravel · REST APIs · Authentication · Authorization · RBAC · API Design**
+
+---
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+</p>
+
+**React · Vite · Tailwind CSS · HTML5 · CSS3 · Responsive UI · RTL Interfaces**
+
+---
+
+### Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="Microsoft SQL Server"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+</p>
+
+**PostgreSQL · MySQL · Microsoft SQL Server · Oracle**
+
+**Database Skills:**
+
+* Relational database design
+* Database administration
+* SQL
+* Query optimization
+* Data modeling
+* Transactions
+* Indexing
+* Migrations
+* Backup and restore
+* Multi-tenant data architecture
+
+---
+
+### ORMs & Data Access
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/>
+</p>
+
+**Prisma · Drizzle ORM · SQL**
+
+---
+
+### AI & Computer Vision
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
+</p>
+
+**PyTorch · OpenCV · YOLO · Ultralytics · Computer Vision · Object Detection · Object Tracking · Video Processing**
+
+---
+
+### DevOps & Cloud
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+</p>
+
+**Docker · Docker Compose · Linux · Nginx · AWS · Amazon EC2 · Git · GitHub**
+
+**Infrastructure & Deployment:**
+
+* Linux server administration
+* Dockerized applications
+* Docker Compose
+* Reverse proxy configuration
+* Nginx
+* AWS EC2
+* Application deployment
+* Environment configuration
+* Server troubleshooting
+
+---
+
+### Development Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
+**Git · GitHub · Postman · npm · pnpm · Vite · Turborepo · Docker Compose**
+
+---
+
+### Search, Monitoring & Data Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch"/>
+</p>
+
+**Elasticsearch · Kibana**
+
+---
+
+### Other Technologies
+
+**MinIO · Celery · Redis · JWT · REST · JSON · Web Services · API Integration**
+
+---
+
+## Core Engineering Areas
+
+```text
+Backend Engineering
+API Development
+Database Engineering
+Database Administration
+Full-Stack Development
+SaaS Architecture
+Multi-Tenant Systems
+Business Automation
+Authentication & Authorization
+RBAC
+System Design
+Cloud Computing
+DevOps
+Linux Server Administration
+Application Deployment
+AI & Computer Vision
+Video Processing
+```
+
+---
+
+## Engineering Approach
+
+I focus on building software that is:
+
+* Reliable
+* Maintainable
+* Secure
+* Scalable
+* Performance-conscious
+* Database-driven
+* Designed around real business requirements
+
+I care about more than making an application work. I aim to understand the underlying architecture, data flow, security, deployment, and long-term maintainability of the system.
+
+---
+
+## Currently Focused On
+
+* Backend engineering
+* Advanced PostgreSQL and database architecture
+* SaaS and multi-tenant systems
+* Cloud infrastructure and DevOps
+* API architecture
+* AI-powered applications
+* Computer Vision
+* System design and scalability
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=brb11&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Ibrahim Basha GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brb11&layout=compact&hide_border=true"
+    alt="Ibrahim Basha Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=brb11&hide_border=true"
+    alt="Ibrahim Basha GitHub Streak"
+  />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/brb11" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building reliable software and solving real-world problems with technology.</i>
+</p>
