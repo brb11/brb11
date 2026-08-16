@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ibrahim Basha</h1>
 
 <h3 align="center">
-Software Engineer | Backend-Focused Full-Stack Developer | Database & DevOps
+Software Engineer | Full-Stack Developer (Backend-Focused) | Database Engineer | DevOps & Cloud Computing Enthusiast 
 </h3>
 
 <p align="center">
@@ -229,39 +229,25 @@ I care about more than making an application work. I aim to understand the under
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=brb11&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Ibrahim Basha GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brb11&layout=compact&hide_border=true"
-    alt="Ibrahim Basha Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=brb11&hide_border=true"
-    alt="Ibrahim Basha GitHub Streak"
-  />
-</p>
-
----
-
 ## Connect With Me
 
 <p align="left">
   <a href="https://github.com/brb11" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+      width="40"
+      height="40"
+      alt="GitHub"
+    />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+
+  <a href="https://www.linkedin.com/in/ebrahim-f-basha-7a6112372" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+      width="40"
+      height="40"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
